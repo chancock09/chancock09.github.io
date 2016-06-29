@@ -33,6 +33,7 @@ nav {
 }
 
 a {
+  color: black;
   padding-bottom: 0.5em;
   text-decoration: none;
 }
