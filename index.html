@@ -4,23 +4,30 @@
 <head>
   <meta charset='utf-8'>
 
-  <title>Chris Hancock</title>
+  <title>Chris Hancock Make Websites</title>
 
   <meta name='description' content='My Site'>
   <meta name='author' content='Chris Hancock'>
 
-  <link rel='stylesheet' href='styles/main.css'>
+  <script src='assets/index.js'></script>
+  <link rel='stylesheet' href='assets/index.css'>
   <link rel='shortcut icon' type='image/png' href='assets/favicon.png'>
 </head>
 
 <body>
   <header>
-    <h1> Hi, I'm Chris. </h1>
+    <h1>
+      Hi, I'm <a onclick='toggleImage()'>Chris</a>.
+    </h1>
   </header>
+
+  <img id='me'
+       src='assets/me.jpg'
+       class='img--hidden'>
 
   <nav>
     <a target='_blank' href='https://github.com/chancock09'>Github</a>
-    <a target='_blank' href='https://www.linkedin.com/in/hancockc'>LinkedIn</a>
+    <a target='_blank' href='https://www.linkedin.com/in/chancock09'>LinkedIn</a>
     <a target='_blank' href='https://medium.com/@chancock09'>Medium</a>
     <a target='_blank' href='https://www.facebook.com/chancock09'>Facebook</a>
   </nav>

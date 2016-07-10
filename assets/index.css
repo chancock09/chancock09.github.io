@@ -15,16 +15,29 @@ body {
 @media only screen and (max-width: 800px) {
   nav {
     justify-content: center;
-  }
 
-  a {
-    display: block;
+    a {
+      display: block;
+    }
   }
 }
 
 header {
   clear: both;
   display: block;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 20em;
+  height: auto;
+  margin-bottom: .67em;
+  border-radius: 0.1em;
+}
+
+.img--hidden {
+  display: none;
 }
 
 nav {
@@ -34,8 +47,9 @@ nav {
 
 a {
   color: black;
-  padding-bottom: 0.5em;
+  /*padding-bottom: 0.5em;*/
   text-decoration: none;
+  cursor: pointer;
 }
 
 a:hover {
