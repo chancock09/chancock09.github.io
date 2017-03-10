@@ -86,6 +86,3 @@ Logos, breadcrumbs, social media links, and more to search results.
 
 Start with the [Moz Beginners’s Guide to
 SEO](https://moz.com/beginners-guide-to-seo).
-
-* [SEO](https://medium.com/tag/seo?source=post)
-* [Marketing](https://medium.com/tag/marketing?source=post)

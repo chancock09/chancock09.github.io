@@ -93,6 +93,3 @@ Be able to answer — emphatically — “Yes” to these two questions:
 1) Will what I’m selling improve this person’s life?
 
 2) When the interaction is over, will the world be a better place?
-
-* [Design](https://medium.com/tag/design?source=post)
-* [Entrepreneurship](https://medium.com/tag/entrepreneurship?source=post)
