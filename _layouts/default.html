@@ -35,7 +35,17 @@
   <script src="assets/scripts/ga.js"></script>
   <script src='assets/scripts/index.js'></script>
 </head>
-  <body>
+<body>
+  <header>
+    {% include header.html %}
+  </header>
+
+  <main>
     {{ content }}
-  </body>
+  </main>
+
+  <footer>
+    {% include footer.html %}
+  </footer>
+</body>
 </html>
