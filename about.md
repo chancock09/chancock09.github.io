@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I'm Chris Hancock, a developer in Brooklyn.
+I'm **Chris Hancock**, a developer in Brooklyn.
 
 Checkout out my [Github](https://github.com/chancock09),
 [LinkedIn](https://www.linkedin.com/in/chancock09),
