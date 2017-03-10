@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  A Complaint Free World
 date:   2017-01-09 20:06:53 -0500
 ---

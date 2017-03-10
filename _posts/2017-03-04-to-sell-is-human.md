@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  To Sell Is Human
 date:   2017-03-04 01:56:53 -0500
 ---
