@@ -1,55 +1,25 @@
-<!doctype html>
+---
+layout: default
+---
 
-<html lang='en'>
-<head>
-  <title>Chris Hancock | Developer</title>
+<header>
+  <h1>
+    Hi, I'm <a onclick='toggleImage()'>Chris</a>.
+  </h1>
+</header>
 
-  <meta charset='utf-8'>
-  <meta name='description'
-        content='Chris builds beautiful websites from Brooklyn, NY'>
-  <meta name='author'
-        content='Chris Hancock'>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<img id='me'
+     src='assets/images/me.jpg'
+     class='img--hidden'>
 
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Person",
-      "name": "Chris Hancock",
-      "additionalName": "Chris",
-      "jobTitle": "Product Engineer | Software Developer",
-      "affiliation": "Handy",
-      "telephone": "(708) 942-4747",
-      "url": "chancock.com"
-    }
-  </script>
-
-  <link rel='stylesheet'
-        href='assets/styles/index.css'>
-  <link rel='shortcut icon'
-        type='image/png'
-        href='assets/images/favicon.png'>
-
-  <script src="assets/scripts/ga.js"></script>
-  <script src='assets/scripts/index.js'></script>
-</head>
-
-<body>
-  <header>
-    <h1>
-      Hi, I'm <a onclick='toggleImage()'>Chris</a>.
-    </h1>
-  </header>
-
-  <img id='me'
-       src='assets/images/me.jpg'
-       class='img--hidden'>
-
-  <nav>
-    <a target='_blank' href='https://github.com/chancock09' rel="noopener">Github</a>
-    <a target='_blank' href='https://www.linkedin.com/in/chancock09' rel="noopener">LinkedIn</a>
-    <a target='_blank' href='https://medium.com/@chancock09' rel="noopener">Medium</a>
-    <a target='_blank' href='https://github.com/chancock09/resume/files/520574/resume.pdf' rel="noopener">Resume</a>
-  </nav>
-</body>
-</html>
+<nav>
+  <a href="/about">
+    About
+  </a>
+  <span>|</span>
+  <a href='https://medium.com/@chancock09'
+     target='_blank'
+     rel="noopener">
+    Blog
+  </a>
+</nav>
