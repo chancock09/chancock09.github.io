@@ -44,6 +44,7 @@ level via `<meta name="robots" content="nofollow">`.
 have two urls with the same content.
 1.  Use [Google Search Console](https://www.google.com/webmasters/tools/home?hl=en)
 to verify your `sitemap.xml`, `robots.txt`, and get other feedback.
+1.  Check [Facebook's Tools](https://developers.facebook.com/tools/debug/sharing/) to see how shared pages will look.
 
 #### Urls
 
