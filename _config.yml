@@ -24,7 +24,6 @@ github_username:  chancock09
 
 # Build settings
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
   - jekyll-sitemap

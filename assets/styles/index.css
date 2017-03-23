@@ -29,7 +29,7 @@ main {
   align-items: stretch;
   flex-direction: column;
   padding: 1rem;
-  max-width: 60rem;
+  max-width: 36rem;
 }
 
 h1 {
