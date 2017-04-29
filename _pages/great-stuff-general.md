@@ -13,9 +13,10 @@ layout: post
 
 ## Articles
 
-- [The Luck Factor](http://www.richardwiseman.com/resources/The_Luck_Factor.pdf)
 - [I Think You're Fat](http://www.esquire.com/news-politics/a26792/honesty0707/)
+- [The Luck Factor](http://www.richardwiseman.com/resources/The_Luck_Factor.pdf)
 - [The Shrinking World of Ideas](http://www.chronicle.com/article/The-Shrinking-World-of-Ideas/150141/)
+- [What You Can't Say](http://www.paulgraham.com/say.html)
 
 ## Books
 
@@ -30,8 +31,11 @@ layout: post
 - [I May Have A Small Dick, But I Have Big Fucking Balls](http://deadspin.com/5937561/i-may-have-a-small-dick-but-i-have-big-fucking-balls-the-unsentimental-education-of-a-harvard-football-player)
 - [Bro, You're A God Among Bros](http://www.theonion.com/blogpost/bro-youre-a-god-among-bros-11333)
 
+## Projects
+
+- [Cleartext Mac](https://github.com/mortenjust/cleartext-mac)
+
 ## Other
 
 - [Million Mile Secrets](http://millionmilesecrets.com/)
 - [RWG - Replica Watch Group](https://rwg.cc/)
-- [Breakout List](https://breakoutlist.com/)
