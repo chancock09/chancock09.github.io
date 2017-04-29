@@ -5,7 +5,7 @@ layout: post
 ---
 
 _Notes from Dan Pink’s [To Sell Is
-Human](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905)_
+Human](http://amzn.to/2pvL5SM)_
 
 #### Moving People
 

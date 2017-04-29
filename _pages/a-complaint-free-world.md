@@ -4,7 +4,7 @@ date:   2017-01-09 20:06:53 -0500
 layout: post
 ---
 
-_Notes from Will Bowen's [A Complaint Free World](https://www.amazon.com/Complaint-Free-World-Complaining-Enjoying/dp/0770436390)._
+_Notes from Will Bowen's [A Complaint Free World](http://amzn.to/2oJAW5L)._
 
 A complaint is an energetic statement that focuses on the problem at hand rather than at the solution.
 

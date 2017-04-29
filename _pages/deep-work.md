@@ -4,7 +4,7 @@ date:   2017-02-23 13:56:53 -0500
 layout: post
 ---
 
-> [The task of the craftsman is] not to generate meaning, but rather to cultivate in himself the skill of discerning the meanings that are already there. — [Dreyfus & Kelly](https://www.amazon.com/All-Things-Shining-Reading-Classics/dp/141659616X)
+> [The task of the craftsman is] not to generate meaning, but rather to cultivate in himself the skill of discerning the meanings that are already there. — [Dreyfus & Kelly](href="https://www.amazon.com/gp/product/141659616X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=141659616X&linkCode=as2&tag=chancock-20&linkId=091363694970a1a613f13240724c6323)
 
 #### Happiness
 
@@ -19,7 +19,7 @@ Structure promotes focus which in turn promotes happiness.
 which encourage one to become involved in one’s work, to concentrate, and to
 lose oneself in it. Free time, on the other hand, is unstructured, and requires
 much greater effort to be shaped into something that can be enjoyed. — [Mihaly
-Csikszentmihaly](https://www.amazon.com/Creativity-Flow-Psychology-Discovery-Invention/dp/0062283251)
+Csikszentmihaly](https://www.amazon.com/gp/product/0062283251/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062283251&linkCode=as2&tag=chancock-20&linkId=4b2bb1e62f43289aa91e1170ab55ca03")
 
 Structure your downtime to have built-in goals, feedback, and challenges as
 well. Plan it in advance. If you haven’t planned anything, be comfortable with
@@ -99,4 +99,4 @@ my life’s goals?
 Avoid “Any Benefit” thinking. Eliminate any tool that isn’t having
 *substantially positive impact* for something wildly important to you.
 
-*From Cal Newport’s *[Deep Work](http://calnewport.com/books/deep-work/)
+*From Cal Newport’s [Deep Work](https://www.amazon.com/gp/product/1455586692/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455586692&linkCode=as2&tag=chancock-20&linkId=94c4567f34248c65dcbb167eb3f8d995")*.

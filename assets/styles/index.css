@@ -58,7 +58,7 @@ h1 {
   text-align: center;
 }
 
-img {
+.img {
   display: block;
   width: 100%;
   max-width: 20rem;
@@ -116,3 +116,4 @@ a:hover {
     transform: scale(0);
   }
 }
+
