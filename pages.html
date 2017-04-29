@@ -2,21 +2,21 @@
 layout: default
 ---
 
-<h1> Pages </h1>
-
 <article>
+
+  <h1> Pages </h1>
+
   {% for page in site.pages reversed %}
     <section>
       <span>{{ page.date | date_to_string }}</span>
-      <h2>
+      <div class="pages-link">
         <a href="{{ page.url }}">{{ page.title }}</a>
-      </h2>
+      </div class="pages-link">
 
       <span>
       </span>
     </section>
 
-    <br/>
     <br/>
 
   {% endfor %}

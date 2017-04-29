@@ -23,10 +23,15 @@ layout: post
 - [Lobste.rs](https://lobste.rs)
 - [Hacker News](https://news.ycombinator.com/)
 
+## Humor
+
+- [Developers Developers](http://develpersdevelope.rs) (sound on)
+
 ## Manifestos
 
 - [Agile Manifesto](http://agilemanifesto.org/)
 - [Dream Company Manifesto](https://github.com/cristaloleg/awesome-manifesto/blob/master/README.md)
+- [Programming, Motherfucker](http://programming-motherfucker.com/)
 
 ## Projects
 
@@ -34,4 +39,6 @@ layout: post
 
 ## Tech Debt
 
+- [Bad Code is an Unhedged Call Option](http://higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/)
 - [Conceptual Debt is Worse than Technical Debt](https://medium.com/all-things-product-management/conceptual-debt-is-worse-than-technical-debt-5b65a910fd46)
+- [The Human Cost of Tech Debt](https://www.infragistics.com/community/blogs/erikdietrich/archive/2016/06/29/the-human-cost-of-tech-debt.aspx)

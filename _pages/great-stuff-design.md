@@ -8,13 +8,14 @@ layout: post
 
 - [A List Apart](https://alistapart.com/)
 
-## Tutorials
+## Books
 
-- [Pure CSS Paralax](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
+- [The Design of Everyday Things](http://amzn.to/2pgZTUM)
 
 ## Manifestos
 
 - [Design For Time Well Spent](http://www.timewellspent.io/design-company-ecosystem-1)
+- [Death to Bullshit](http://deathtobullshit.com/)
 
 ## Projects
 
@@ -29,3 +30,7 @@ layout: post
 
 - [Coolors.co - Generate Color Schemes](https://coolors.co/ffffff-242038-000000-d7263d-d1d5d8)
 - [CSS Box Shadow Generator](http://www.cssmatic.com/box-shadow)
+
+## Tutorials
+
+- [Pure CSS Paralax](http://keithclark.co.uk/articles/pure-css-parallax-websites/)

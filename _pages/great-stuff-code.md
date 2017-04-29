@@ -42,6 +42,7 @@ layout: post
 
 - [D3 Express](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0)
 - [TypeORM](https://github.com/typeorm/typeorm)
+- [Google Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
 
 ## Reference
 

@@ -18,6 +18,11 @@ body {
   background: #D1D5D8;
 }
 
+code {
+  background: #D1D5D8;
+  padding: 0.25em;
+}
+
 @media only screen and (max-width: 800px) {
   nav {
     justify-content: center;
@@ -39,6 +44,10 @@ main {
   border-radius: 2rem;
   margin: 3rem 0;
   box-shadow: 0 0 3px 1px gray;
+}
+
+main article {
+  padding: 1em 0;
 }
 
 h1 {
@@ -126,10 +135,11 @@ a:hover {
   }
 }
 
-.post {
-  padding: 1em 0;
-}
-
 .post-header {
   border-bottom: 0.125rem solid #D1D5D8;
+}
+
+.pages-link {
+  font-size: 1.5em;
+  font-weight: bold;
 }

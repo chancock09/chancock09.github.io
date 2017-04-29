@@ -4,18 +4,12 @@ date:   2017-04-29 1:00:00 -0500
 layout: post
 ---
 
-## Aggregations
-
-- [These Websites Could Change Your Life](http://kottke.org/17/04/these-websites-could-change-your-life)
-- [Bret Victor's Reading List](http://worrydream.com/#!/Links)
-- [Alan Kay's Readling List](http://wiki.c2.com/?AlanKaysReadingList)
-- [Derek Sivers Reading List](https://sivers.org/book)
-
 ## Articles
 
 - [I Think You're Fat](http://www.esquire.com/news-politics/a26792/honesty0707/)
 - [The Luck Factor](http://www.richardwiseman.com/resources/The_Luck_Factor.pdf)
 - [The Shrinking World of Ideas](http://www.chronicle.com/article/The-Shrinking-World-of-Ideas/150141/)
+- [These Websites Could Change Your Life](http://kottke.org/17/04/these-websites-could-change-your-life)
 - [What You Can't Say](http://www.paulgraham.com/say.html)
 
 ## Books
@@ -23,7 +17,6 @@ layout: post
 - [Homo Deus](http://amzn.to/2oTbu8U)
 - [Godel Escher Bach](http://amzn.to/2pw6pY1)
 - [Thinking Fast and Slow](http://amzn.to/2qjzpQL)
-- [The Design of Everyday Things](http://amzn.to/2pgZTUM)
 
 ## Humor
 
@@ -34,6 +27,12 @@ layout: post
 ## Projects
 
 - [Cleartext Mac](https://github.com/mortenjust/cleartext-mac)
+
+## Reading
+
+- [Bret Victor's Reading List](http://worrydream.com/#!/Links)
+- [Alan Kay's Readling List](http://wiki.c2.com/?AlanKaysReadingList)
+- [Derek Sivers Reading List](https://sivers.org/book)
 
 ## Other
 
