@@ -7,7 +7,7 @@ layout: post
 _Notes from Dan Pink’s [To Sell Is
 Human](http://amzn.to/2pvL5SM)_
 
-#### Moving People
+## Moving People
 
 Selling happens off the used-car lot, too. Its about moving people to part with
 their valuable resources (e.g. attention, time, effort, or cash) in a mutually
@@ -16,7 +16,7 @@ beneficial way.
 Selling is serving. Its about identifying and filling a need. It requires
 creative though, design thinking, and empathy.
 
-#### Empathy
+## Empathy
 
 Solve the right problem by putting yourself in the other person’s shoes. What
 are their motivations and considerations. What are they trying to achieve?
@@ -29,7 +29,7 @@ Agitate instead of irritating.
 Use improv rules to encourage open, optimistic, and empathetic communication. 1)
 Hear offers, 2) say “Yes and”, and 3) Make your partner look good.
 
-#### Positivity
+## Positivity
 
 Negative emotions are a biological adaptation to *narrow* focus and propel
 behavior towards immediate survival. Fear, stress, or anger compel you to act
@@ -46,7 +46,7 @@ external as opposed to permeant, pervasive, and personal. The more your
 explanatory style for your own setbacks falls into the first category, the more
 likely you are to persist in the face of adversity.
 
-#### Clarity
+## Clarity
 
 Thinking is hard, so help others do it. Frame the problem, provide relevant
 information, and provide helpful solutions.
@@ -62,7 +62,7 @@ about positives and negatives.
 Most importantly, create offramps. Don’t just *tell* people what they want,
 *show* them how to get it. Specially, with steps and instructions.
 
-#### The Pitch
+## The Pitch
 
 You’ve empathetically asked the right questions. You creatively solved the right
 problem. Now you need to convince others you’re right. The Pitch.
@@ -81,7 +81,7 @@ Try the Pixar pitch:
 > __________. Because of that __________. Because of that __________. Until
 finally, __________.
 
-#### Service
+## Service
 
 Be *personal*, and *purposeful*. Focus on the individual. Be specific about
 *why* something is beneficial or necessary.

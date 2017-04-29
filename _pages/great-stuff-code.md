@@ -25,6 +25,12 @@ layout: post
 - [Pragmatic Programmer](http://amzn.to/2pvZApI)
 - [Elegant Objects](http://amzn.to/2pheqQp)
 
+## Fundamentals
+
+- [A Typical HTTP Session](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
+- [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [MDN Javascript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
 ## Humor
 
 - [Comcastify.js](http://theonion.github.io/comcastifyjs/)
@@ -67,9 +73,3 @@ layout: post
 - [Statistical Inference for Everyone](https://bblais.github.io/statistical-inference-for-everyone-sie.html)
 - [The Book of Modern Frontend Tooling](http://tooling.github.io/book-of-modern-frontend-tooling/dependency-management/webpack/getting-started.html)
 - [The Nature of Code](http://natureofcode.com/book/)
-
-## Web Fundamentals
-
-- [A Typical HTTP Session](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
-- [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [MDN Javascript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)

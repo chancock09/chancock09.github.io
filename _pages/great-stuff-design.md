@@ -11,7 +11,6 @@ layout: post
 ## Tutorials
 
 - [Pure CSS Paralax](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Manifestos
 
@@ -21,6 +20,10 @@ layout: post
 
 - [Normalize CSS](https://necolas.github.io/normalize.css/)
 - [Material Design](https://material.io/guidelines/material-design/introduction.html)
+
+## Reference
+
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Tools
 

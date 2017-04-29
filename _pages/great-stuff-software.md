@@ -23,7 +23,6 @@ layout: post
 - [Lobste.rs](https://lobste.rs)
 - [Hacker News](https://news.ycombinator.com/)
 
-
 ## Manifestos
 
 - [Agile Manifesto](http://agilemanifesto.org/)

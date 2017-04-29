@@ -8,7 +8,7 @@ Read on for some simple advice and best-practices for building pages users can
 find. Look elsewhere for [advice on choosing the best
 keywords](https://moz.com/beginners-guide-to-seo/keyword-research).
 
-#### First Things First
+## First Things First
 
 It’s essential your site be responsive and accessible.
 
@@ -21,7 +21,7 @@ targets for page load time and performance.
 Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 audit.
 
-#### The Basics
+## The Basics
 
 Read [Google’s SEO Starter
 Guide](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf).
@@ -46,7 +46,7 @@ have two urls with the same content.
 to verify your `sitemap.xml`, `robots.txt`, and get other feedback.
 1.  Check [Facebook's Tools](https://developers.facebook.com/tools/debug/sharing/) to see how shared pages will look.
 
-#### Urls
+## Urls
 
 [Moz on Urls](https://moz.com/learn/seo/url).
 
@@ -56,7 +56,7 @@ displayed in search results.
 parameters.
 1.  If a path returns a result, no parent path should `404`.
 
-#### Sitemap.xml
+## Sitemap.xml
 
 Read the [Sitemaps Protocol](https://www.sitemaps.org/protocol.html).
 
@@ -65,14 +65,14 @@ Read the [Sitemaps Protocol](https://www.sitemaps.org/protocol.html).
 1.  Sitemaps only link to sites in their directory or child directories. `/vegetables/sitemap.xml` cannot
 contains links to `/fruits/apple.html`.
 
-#### Robots.txt
+## Robots.txt
 
 Learn about [robots.txt](http://www.robotstxt.org/).
 
 1.  Disallow pages that should not be crawled.
 1.  Tell crawlers where to find your sitemaps.
 
-#### Microdata
+## Microdata
 
 Use [Schema.org](https://schema.org/docs/gs.html) microdata to help search
 engine’s display your results. There are plenty of [item
@@ -83,7 +83,7 @@ Check [Google’s Search
 Documentation](https://developers.google.com/search/docs/) for info on adding
 Logos, breadcrumbs, social media links, and more to search results.
 
-#### Read On
+## Read On
 
 Start with the [Moz Beginners’s Guide to
 SEO](https://moz.com/beginners-guide-to-seo).

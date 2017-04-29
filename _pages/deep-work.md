@@ -6,7 +6,7 @@ layout: post
 
 > [The task of the craftsman is] not to generate meaning, but rather to cultivate in himself the skill of discerning the meanings that are already there. — [Dreyfus & Kelly](href="https://www.amazon.com/gp/product/141659616X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=141659616X&linkCode=as2&tag=chancock-20&linkId=091363694970a1a613f13240724c6323)
 
-#### Happiness
+## Happiness
 
 Happiness is generally framed in terms of *circumstances*. In reality, *what we
 pay attention to* is more important. Diligently focus on positivity, connection,
@@ -25,7 +25,7 @@ Structure your downtime to have built-in goals, feedback, and challenges as
 well. Plan it in advance. If you haven’t planned anything, be comfortable with
 boredom and don’t turn to simple distractions.
 
-#### The Skill of Attention
+## The Skill of Attention
 
 
 According to [Talent Code](http://thetalentcode.com/), deliberate and
@@ -46,7 +46,7 @@ Ask yourself this question:
 
 The longer the better. Focus on those tasks. They’re pushing your limits.
 
-#### Process, Process, Process
+## Process, Process, Process
 
 Diligence is key. Focus on creating and ritualizing a process that works for
 you. Great creative minds think like artists but work like accountants.
@@ -55,7 +55,7 @@ Train by scheduling breaks *from focus* rather than *from distraction*. Plan
 times with you *will not be thinking deeply* into your day knowing that
 *thinking deeply* is the default.
 
-#### Plan
+## Plan
 
 Structure execution in your daily life:
 
@@ -67,7 +67,7 @@ Structure execution in your daily life:
 What’s the **lead measure** for knowledge work? Time spent in **flow states**.
 How can you optimize?
 
-#### Think
+## Think
 
 Use *productive meditation*. Train your brain to better structure thought:
 
@@ -76,7 +76,7 @@ Use *productive meditation*. Train your brain to better structure thought:
 1.  *Consolidate* gains by reviewing
 1.  *Repeat* to completion
 
-#### Shut Down
+## Shut Down
 
 It might help to have a shutdown ritual to convince your brain loose ends are
 tied up. Do something like:
@@ -86,7 +86,7 @@ tied up. Do something like:
 1.  write down top 5 tasks for tomorrow
 1.  leave and don’t think about them again until you read your list in the morning
 
-#### Use the right tools
+## Use the right tools
 
 Design your life. Every routine you have, website you use, friend you hang out
 with, and activity you participate should promote your happiness. Treat them as
