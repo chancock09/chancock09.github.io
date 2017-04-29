@@ -1,6 +1,7 @@
 ---
 title:  A Developer’s SEO Checklist
 date:   2017-03-8 13:56:53 -0500
+layout: post
 ---
 
 Read on for some simple advice and best-practices for building pages users can

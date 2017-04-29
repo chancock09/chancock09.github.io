@@ -2,8 +2,10 @@
 layout: default
 ---
 
+<h1> Pages </h1>
+
 <article>
-  {% for page in site.pages %}
+  {% for page in site.pages reversed %}
     <section>
       <span>{{ page.date | date_to_string }}</span>
       <h2>

@@ -3,15 +3,18 @@ body {
   font-family: 'Roboto', 'Helvetica', sans-serif;
   margin: 0;
   padding: 0;
-  width: 100%;
-  height: 100%;
-
-  margin: 0;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   align-content: center;
+
+  min-width: 100%;
+  min-height: 100%;
+}
+
+body {
+  background: #D1D5D8;
 }
 
 @media only screen and (max-width: 800px) {
@@ -28,20 +31,24 @@ main {
   display: flex;
   align-items: stretch;
   flex-direction: column;
-  padding: 1rem;
   max-width: 36rem;
+
+  padding: 2em;
+  background: white;
+  border-radius: 2rem;
+  margin: 3rem 0;
 }
 
 h1 {
   text-align: center;
+  margin-top: 0;
 }
 
 .header {
-  position: fixed;
+  position: absolute;
   right: 0;
   top: 0;
 
-  background: white;
   padding: 1em;
 }
 
@@ -50,7 +57,7 @@ h1 {
 }
 
 .nav-link--main {
-  color: red;
+  color: #D7263D;
 }
 
 .centered {
@@ -65,7 +72,7 @@ h1 {
   max-height: 20rem;
   height: auto;
   margin-bottom: .67rem;
-  border-radius: 0.1rem;
+  border-radius: 1rem;
 
   animation: easeIn 1s;
   animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
@@ -92,7 +99,7 @@ a {
 }
 
 a:hover {
-  color: red;
+  color: #D7263D;
 }
 
 @keyframes easeIn {
@@ -117,3 +124,6 @@ a:hover {
   }
 }
 
+.post-header {
+  border-bottom: 0.125rem solid #D1D5D8;
+}
