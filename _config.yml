@@ -7,6 +7,7 @@ url: "http://chancock.com"
 facebook_username: chancock09
 github_username:  chancock09
 markdown: kramdown
+theme: minima
 gems:
   - jekyll-feed
   - jekyll-sitemap
@@ -14,7 +15,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 permalink: pretty
-
 collections:
   pages:
     output: true

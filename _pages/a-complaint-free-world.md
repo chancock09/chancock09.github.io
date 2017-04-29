@@ -1,7 +1,7 @@
 ---
 title:  A Complaint Free World
 date:   2017-01-09 20:06:53 -0500
-permalink: "/a-complaint-free-world"
+layout: post
 ---
 
 _Notes from Will Bowen's [A Complaint Free World](https://www.amazon.com/Complaint-Free-World-Complaining-Enjoying/dp/0770436390)._

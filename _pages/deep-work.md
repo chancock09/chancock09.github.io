@@ -1,6 +1,7 @@
 ---
 title:  Deep Work
 date:   2017-02-23 13:56:53 -0500
+layout: post
 ---
 
 > [The task of the craftsman is] not to generate meaning, but rather to cultivate in himself the skill of discerning the meanings that are already there. — [Dreyfus & Kelly](https://www.amazon.com/All-Things-Shining-Reading-Classics/dp/141659616X)
