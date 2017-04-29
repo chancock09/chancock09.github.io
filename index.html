@@ -34,3 +34,20 @@ layout: default
   </p>
 </article>
 
+<article>
+  {% for page in site.pages %}
+    <section>
+      <span>{{ page.date | date_to_string }}</span>
+      <h2>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      </h2>
+
+      <span>
+      </span>
+    </section>
+
+    <br/>
+    <br/>
+
+  {% endfor %}
+</article>

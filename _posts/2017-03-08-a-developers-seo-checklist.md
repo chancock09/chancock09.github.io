@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  A Developer’s SEO Checklist
 date:   2017-03-8 13:56:53 -0500
 ---
