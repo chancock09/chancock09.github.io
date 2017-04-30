@@ -1,0 +1,52 @@
+$none: 0;
+$normal: 1em;
+$large: 2em;
+
+.centered {
+  align-self: center;
+  text-align: center;
+}
+
+.padding {
+  padding: $normal;
+
+  &--none {
+    padding: $none;
+  }
+
+  &--large {
+    padding: $large;
+  }
+}
+
+.margin {
+  margin: $normal;
+
+  &--none {
+    margin: $none;
+  }
+}
+
+.shadow {
+  box-shadow: 0 0 3px 1px $color--shadow;
+}
+
+.container {
+  width: 100%;
+
+  @media only screen and (min-width: 36rem) {
+    width: 36rem;
+  }
+}
+
+.divider {
+  &--bottom {
+    border-bottom: 0.125rem solid $color--background;
+  }
+}
+
+.text {
+  &--muted {
+    color: $color--shadow;
+  }
+}

@@ -1,0 +1,9 @@
+.link {
+  &--main {
+    color: $color--link;
+  }
+
+  &--nav {
+    text-decoration: none;
+  }
+}

@@ -1,0 +1,18 @@
+.img {
+  display: block;
+  width: 100%;
+  max-width: 20rem;
+  max-height: 20rem;
+  height: auto;
+  margin-bottom: .67rem;
+  border-radius: 1rem;
+
+  @extend .animate--ease-in;
+
+  &--hidden {
+    visibility: hidden;
+    height: 0px;
+
+    @extend .animate--ease-out;
+  }
+}

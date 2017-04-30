@@ -1,0 +1,33 @@
+$max-width: 36rem;
+
+.layout {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  &__header {
+    @extend .container;
+
+    display: flex;
+    justify-content: flex-end;
+
+    nav {
+      @extend .padding;
+    }
+  }
+
+  &__main {
+    flex: 1;
+
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+    max-width: $max-width;
+  }
+
+  &__footer {
+    @extend .centered;
+    @extend .padding;
+  }
+}

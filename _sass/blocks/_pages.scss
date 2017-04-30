@@ -1,0 +1,18 @@
+.pages {
+  @extend .box--large;
+  @extend .shadow;
+  @extend .container;
+
+  &__header {
+    padding-bottom: 1em;
+    @extend .divider--bottom;
+  }
+
+  &__section {
+    padding-bottom: 1em;
+  }
+
+  &__meta {
+    @extend .text--muted;
+  }
+}

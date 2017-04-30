@@ -1,0 +1,29 @@
+.post {
+  @extend .box--large;
+  @extend .shadow;
+  @extend .container;
+
+  &-header {
+    @extend .divider--bottom;
+  }
+
+  &-meta {
+    @extend .text--muted;
+  }
+
+  code {
+    background: $color--background;
+    padding: 0.25em;
+  }
+
+  blockquote {
+    background: $color--background;
+    border-radius: 0.5em;
+    margin: 1em 0;
+  }
+
+  blockquote p {
+    @extend .padding;
+    margin: 0;
+  }
+}

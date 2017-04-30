@@ -1,0 +1,9 @@
+.box {
+  background: $color--box;
+
+  &--large {
+    @extend .box;
+    @extend .padding--large;
+    border-radius: 2rem;
+  }
+}

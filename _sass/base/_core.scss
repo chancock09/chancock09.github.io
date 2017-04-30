@@ -1,0 +1,33 @@
+html,
+body {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+  margin: 0;
+  padding: 0;
+
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+body {
+  background: $color--background;
+}
+
+nav {
+  display: block;
+  text-align: center;
+}
+
+a {
+  color: $color--text;
+  margin-bottom: .67em;
+  text-decoration: underline;
+  cursor: pointer;
+
+  &:hover {
+    color: $color--link;
+  }
+}
+
+p {
+  line-height: 1.5em;
+}
