@@ -26,6 +26,7 @@ code {
 blockquote {
   background: #D1D5D8;
   border-radius: 0.5em;
+  margin: 1em 0;
 }
 
 blockquote p {
