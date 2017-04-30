@@ -4,7 +4,6 @@ description: >
   Chris builds the internet in 2017.
 baseurl: ""
 url: "http://chancock.com"
-facebook_username: chancock09
 github_username:  chancock09
 markdown: kramdown
 theme: minima
