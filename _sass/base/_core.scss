@@ -1,6 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
 html,
 body {
-  font-family: 'Roboto', 'Helvetica', sans-serif;
+  font-family: 'Merriweather', serif;
   margin: 0;
   padding: 0;
 
@@ -9,7 +12,7 @@ body {
 }
 
 body {
-  background: $color--background;
+  background-color: $color--background;
 }
 
 nav {
@@ -28,6 +31,12 @@ a {
   }
 }
 
-p {
+p, ul, ol {
   line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
+  font-weight: 700;
+  line-height: 1.3;
 }

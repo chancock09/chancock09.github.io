@@ -9,14 +9,7 @@ layout: post
 - [Programming Sucks](http://www.stilldrinking.org/programming-sucks)
 - [The Philosophy of CS](https://plato.stanford.edu/entries/computer-science/)
 - [What Makes Software Good](https://medium.com/@mbostock/what-makes-software-good-943557f8a488)
-
-## Blogs
-
-- [Coding Horror](https://blog.codinghorror.com/)
-- [Joel on Software](https://www.joelonsoftware.com/)
-- [Kalzumeus Software](http://www.kalzumeus.com/)
-- [Martin Fowler](https://martinfowler.com/)
-- [Paul Graham](http://www.paulgraham.com/)
+- [Feature Toggles](https://martinfowler.com/articles/feature-toggles.html)
 
 ## Communities
 
@@ -32,6 +25,14 @@ layout: post
 - [Agile Manifesto](http://agilemanifesto.org/)
 - [Dream Company Manifesto](https://github.com/cristaloleg/awesome-manifesto/blob/master/README.md)
 - [Programming, Motherfucker](http://programming-motherfucker.com/)
+
+## People
+
+- [Jeff Atwood](https://blog.codinghorror.com/)
+- [Joel Spolsky](https://www.joelonsoftware.com/)
+- [Patrick McKenzie](http://www.kalzumeus.com/)
+- [Martin Fowler](https://martinfowler.com/)
+- [Paul Graham](http://www.paulgraham.com/)
 
 ## Projects
 

@@ -4,6 +4,10 @@ date:   2017-04-29 1:00:00 -0500
 layout: post
 ---
 
+## Articles
+
+- [Storyboarding in UX Design](https://uxplanet.org/storyboarding-in-ux-design-b9d2e18e5fab)
+
 ## Blogs
 
 - [A List Apart](https://alistapart.com/)
@@ -21,6 +25,7 @@ layout: post
 
 - [Normalize CSS](https://necolas.github.io/normalize.css/)
 - [Material Design](https://material.io/guidelines/material-design/introduction.html)
+- [Font CDN](http://fontcdn.org/)
 
 ## Reference
 

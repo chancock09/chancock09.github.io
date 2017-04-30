@@ -10,7 +10,8 @@ $blue: #242038;
 $black: #000000;
 $red: #D7263D;
 $gray: #D1D5D8;
-$alt-gray: #86888A;
+$alt-gray: #9B9F9D;
+$shadow-gray: #86888A;
 
 // Exports
 
@@ -18,7 +19,8 @@ $color--box: $white;
 $color--background: $gray;
 $color--text: $black;
 $color--link: $red;
-$color--shadow: $alt-gray;
+$color--muted: $alt-gray;
+$color--shadow: $shadow-gray;
 
 //
 // -- Other --

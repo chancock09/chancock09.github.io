@@ -18,12 +18,25 @@ layout: post
 ## APIs
 
 - [WGER Workout API](https://wger.de/en/software/api)
+- [Public APIs](https://github.com/toddmotto/public-apis)
 
 ## Books
 
 - [Code Complete](http://amzn.to/2phoZTf)
 - [Pragmatic Programmer](http://amzn.to/2pvZApI)
 - [Elegant Objects](http://amzn.to/2pheqQp)
+
+## Data
+
+- [Google N-Grams](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
+- [Learn JS Data](http://learnjsdata.com/)
+- [D3](https://d3js.org/), [D3 Express](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0), and [Victory](http://formidable.com/open-source/victory/)
+- [Learn D3](https://square.github.io/intro-to-d3/)
+
+## Docker
+
+- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+- [Deploy to EC2](https://aws.amazon.com/getting-started/tutorials/deploy-docker-containers/)
 
 ## Fundamentals
 
@@ -40,13 +53,10 @@ layout: post
 
 ## Projects
 
-- [D3 Express](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0)
+- [Firebase Server](https://github.com/urish/firebase-server)
 - [TypeORM](https://github.com/typeorm/typeorm)
 - [Google Web Starter Kit](https://developers.google.com/web/tools/starter-kit/)
-
-## Reference
-
-- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+- [NightmareJS](http://www.nightmarejs.org/)
 
 ## Style
 

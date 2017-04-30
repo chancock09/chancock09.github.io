@@ -1,9 +1,14 @@
 .link {
   &--main {
+    text-decoration: none;
     color: $color--link;
   }
 
   &--nav {
+    text-decoration: none;
+  }
+
+  &--plain {
     text-decoration: none;
   }
 }

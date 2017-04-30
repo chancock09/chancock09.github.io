@@ -8,12 +8,11 @@
   }
 
   &-meta {
-    @extend .text--muted;
+    @extend .text--meta;
   }
 
   code {
     background: $color--background;
-    padding: 0.25em;
   }
 
   blockquote {

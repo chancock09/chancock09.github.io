@@ -13,6 +13,7 @@
   }
 
   &__meta {
-    @extend .text--muted;
+    @extend .text--meta;
+    padding-bottom: 0.5em;
   }
 }

@@ -1,11 +1,7 @@
 .img {
-  display: block;
-  width: 100%;
   max-width: 20rem;
   max-height: 20rem;
-  height: auto;
-  margin-bottom: .67rem;
-  border-radius: 1rem;
+  border-radius: 0.25rem;
 
   @extend .animate--ease-in;
 

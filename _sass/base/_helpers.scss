@@ -46,7 +46,18 @@ $large: 2em;
 }
 
 .text {
+  font-size: 16px;
+
+  &--meta {
+    @extend .text--muted;
+    @extend .text--small;
+  }
+
+  &--small {
+    font-size: 14px
+  }
+
   &--muted {
-    color: $color--shadow;
+    color: $color--muted;
   }
 }
