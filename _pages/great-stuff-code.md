@@ -37,6 +37,7 @@ layout: post
 
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Deploy to EC2](https://aws.amazon.com/getting-started/tutorials/deploy-docker-containers/)
+- [Docker Tutorial Series](https://rominirani.com/docker-tutorial-series-a7e6ff90a023)
 
 ## Fundamentals
 

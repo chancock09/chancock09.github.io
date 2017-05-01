@@ -6,6 +6,7 @@ layout: post
 
 ## Articles
 
+- [Complexity and Strategy](https://hackernoon.com/complexity-and-strategy-325cd7f59a92)
 - [Programming Sucks](http://www.stilldrinking.org/programming-sucks)
 - [The Philosophy of CS](https://plato.stanford.edu/entries/computer-science/)
 - [What Makes Software Good](https://medium.com/@mbostock/what-makes-software-good-943557f8a488)
