@@ -26,6 +26,7 @@ layout: post
 - [Agile Manifesto](http://agilemanifesto.org/)
 - [Dream Company Manifesto](https://github.com/cristaloleg/awesome-manifesto/blob/master/README.md)
 - [Programming, Motherfucker](http://programming-motherfucker.com/)
+- [Heroki Values](https://brandur.org/heroku-values)
 
 ## People
 
