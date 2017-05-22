@@ -39,6 +39,8 @@ layout: post
 - [Deploy to EC2](https://aws.amazon.com/getting-started/tutorials/deploy-docker-containers/)
 - [Docker Tutorial Series](https://rominirani.com/docker-tutorial-series-a7e6ff90a023)
 - [Docker Sync](http://docker-sync.io/)
+- [Docker Dev Workflow](https://www.airpair.com/docker/posts/efficiant-development-workfow-using-git-submodules-and-docker-compose)
+- [Dockerize Node](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 
 ## Fundamentals
 
